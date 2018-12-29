@@ -25,7 +25,7 @@ Mobile-first business approach has guided us in inching up the ladder of success
  </li><li><strong></strong> Milestone Billing
  </li><li><em>Daily Reporting</em></li>.
 
-
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/L3L1NX60)
 
 # Check out some of my current live apps links :
 - [Baby Led Weaning](https://itunes.apple.com/us/app/baby-led-weaning/id1366679578?ls=1&mt=8)
