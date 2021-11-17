@@ -5,7 +5,7 @@ In this smartphone era, it’s vital to deliver the high-end mobile experience t
 I have developed a basic algorithm to develop mobile applications which ensures reliable performance of the application.
 Mobile-first business approach has guided us in inching up the ladder of success resulting in meeting business goals & needs.
 
-### "Hourly"
+<!-- ### "Hourly"
  <li ><strong></strong> As Needed
  </li><li><strong></strong> Flexible Working Hours
  </li><li><strong></strong> Weekly Billing
@@ -23,19 +23,19 @@ Mobile-first business approach has guided us in inching up the ladder of success
  <li><strong></strong> Hours as Needed
  </li><li><strong></strong> Flexible Working Hours
  </li><li><strong></strong> Milestone Billing
- </li><li><em>Daily Reporting</em></li>.
+ </li><li><em>Daily Reporting</em></li>. -->
 
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/L3L1NX60)
 
-# Check out some of my current live apps links :
+<!-- # Check out some of my current live apps links :
 - [Baby Led Weaning](https://itunes.apple.com/us/app/baby-led-weaning/id1366679578?ls=1&mt=8)
 - [Walkster London](https://itunes.apple.com/us/app/walkster-london/id1093836518?ls=1&mt=8)
 - [Agrimedia](https://itunes.apple.com/us/app/agrimedia/id1434653553?ls=1&mt=8)
 - [Kaledate](https://itunes.apple.com/us/app/kaledate/id1169891592?mt=8)
 - [Brocker chacha](https://itunes.apple.com/us/app/brokerchacha/id1274370723?ls=1&mt=8)
-
+ -->
 
 
 ### Support or Contact
 
- [Abhay Korat](https://www.fiverr.com/abhaykorat) or [contact support](mailto:abhaykorat89@gmail.com?Subject=Hello%20again) and I’ll help you sort it out.
+ [Abhay Korat](https://www.google.com/search?q=abhay+korat) or [contact support](mailto:abhaykorat89@gmail.com?Subject=Hello%20again) and I’ll help you sort it out.
